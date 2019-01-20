@@ -1,0 +1,10 @@
+c:\users\abby loosle\source\repos\AbbyMathQuizForm\AbbyMathQuizForm\bin\Debug\AbbyMathQuizForm.exe.config
+c:\users\abby loosle\source\repos\AbbyMathQuizForm\AbbyMathQuizForm\bin\Debug\AbbyMathQuizForm.exe
+c:\users\abby loosle\source\repos\AbbyMathQuizForm\AbbyMathQuizForm\bin\Debug\AbbyMathQuizForm.pdb
+c:\users\abby loosle\source\repos\AbbyMathQuizForm\AbbyMathQuizForm\obj\Debug\AbbyMathQuizForm.csprojAssemblyReference.cache
+c:\users\abby loosle\source\repos\AbbyMathQuizForm\AbbyMathQuizForm\obj\Debug\AbbyMathQuizForm.MathForm.resources
+c:\users\abby loosle\source\repos\AbbyMathQuizForm\AbbyMathQuizForm\obj\Debug\AbbyMathQuizForm.Properties.Resources.resources
+c:\users\abby loosle\source\repos\AbbyMathQuizForm\AbbyMathQuizForm\obj\Debug\AbbyMathQuizForm.csproj.GenerateResource.cache
+c:\users\abby loosle\source\repos\AbbyMathQuizForm\AbbyMathQuizForm\obj\Debug\AbbyMathQuizForm.csproj.CoreCompileInputs.cache
+c:\users\abby loosle\source\repos\AbbyMathQuizForm\AbbyMathQuizForm\obj\Debug\AbbyMathQuizForm.exe
+c:\users\abby loosle\source\repos\AbbyMathQuizForm\AbbyMathQuizForm\obj\Debug\AbbyMathQuizForm.pdb
